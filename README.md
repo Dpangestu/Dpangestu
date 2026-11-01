@@ -92,7 +92,7 @@ var me = Developer{
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dpangestu-181717?style=for-the-badge&logo=github)](https://github.com/Dpangestu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GANTI-USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GANTI@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pangestudimas719@email.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=100&section=footer" />
 
